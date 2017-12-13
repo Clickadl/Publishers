@@ -1,2 +1,0 @@
-# Publishers
-New Publishers
